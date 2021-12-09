@@ -14,3 +14,4 @@
 
 * [마크다운](ETC/markdown.md)
 * [UUID](ETC/uuid.md)
+* [클린코드](ETC/clean_code.md)
