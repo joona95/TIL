@@ -4,6 +4,10 @@
 
 * [Github 프로필](Github/profile.md)
 
+## JavaScript
+
+* [Date.toLocaleTimeString() 함수의 시간 표시 포맷 문제 해결](Javascript/date_to_locale_time_string_24_hours_display.md)
+
 ## Visual Studio
 
 * [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
