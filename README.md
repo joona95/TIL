@@ -19,3 +19,4 @@
 * [마크다운](ETC/markdown.md)
 * [UUID](ETC/uuid.md)
 * [클린코드](ETC/clean_code.md)
+* [서버 사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)](ETC/ssr_and_csr.md)
