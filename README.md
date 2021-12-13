@@ -8,6 +8,10 @@
 
 * [Date.toLocaleTimeString() 함수의 시간 표시 포맷 문제 해결](Javascript/date_to_locale_time_string_24_hours_display.md)
 
+## Java
+
+* [Log4j2 취약점](Java/log4j2_remote_code_execution_vulnerability.md)
+
 ## Visual Studio
 
 * [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
