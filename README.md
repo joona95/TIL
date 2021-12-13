@@ -25,3 +25,4 @@
 * [클린코드](ETC/clean_code.md)
 * [서버 사이드 렌더링(SSR)과 클라이언트 사이드 렌더링(CSR)](ETC/ssr_and_csr.md)
 * [테스트와 TDD(Test-Driven Development)](ETC/tdd.md)
+* [CI/CD](ETC/ci_cd.md)
