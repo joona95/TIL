@@ -6,6 +6,8 @@
 
 ## JavaScript
 
+* [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
+
 * [Date.toLocaleTimeString() 함수의 시간 표시 포맷 문제 해결](Javascript/date_to_locale_time_string_24_hours_display.md)
 
 ## Vue
