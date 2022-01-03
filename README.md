@@ -18,7 +18,9 @@
 
 ## CSS
 
-* [CSS](CSS/css.md)
+* [CSS](Css/css.md)
+* [CSS Selector](Css/css_selector.md)
+* [CSS Flexbox](Css/css_flexbox.md)
 
 ## Vue
 
@@ -43,3 +45,4 @@
 * [테스트와 TDD(Test-Driven Development)](ETC/tdd.md)
 * [CI/CD](ETC/ci_cd.md)
 * [Docker](ETC/docker.md)
+* [Process 와 Thread](ETC/process_and_thread.md)
