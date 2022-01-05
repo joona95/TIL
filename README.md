@@ -4,6 +4,8 @@
 
 * [Github 프로필](Github/profile.md)
 
+* [Git Remotes에 Commit을 잘못 Push 했을 때 Push 취소 방법](Github/git_push_cancel.md)
+
 ## JavaScript
 
 * [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
