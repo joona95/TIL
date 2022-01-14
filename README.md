@@ -12,6 +12,10 @@
 
 * [Date.toLocaleTimeString() 함수의 시간 표시 포맷 문제 해결](Javascript/date_to_locale_time_string_24_hours_display.md)
 
+## TypeScript
+
+* [Utility Types](TypeScript/utility_types.md)
+
 ## Node.js
 
 * [Sequelize 로 JSON 데이터 다루기](Node/sequelize_json.md)
@@ -32,7 +36,11 @@
 
 ## Vue
 
+* [Vue Lifecycle](Vue/lifecycle.md)
+
 * [Veutify v-btn 의 to 와 @click 이 동시에 작동하지 않은 문제](Vue/vuetify_v-btn_to_and_@click.md)
+
+* [$refs 사용하여 DOM요소 접근](Vue/$ref.md)
 
 ## Java
 
