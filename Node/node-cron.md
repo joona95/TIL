@@ -28,11 +28,13 @@ npm install --save node-cron
 var cron = require('node-cron');
 
 cron.schedule('* * * * *', () => {
-  console.log('running a task every minute');
+  console.log('매 분마다 실행');
 });
 ```
 
 - '* * * * *' 부분에 원하는 실행 주기 설정을 하면 됨
+
+    - 실행 주기 설정 
 
     ```
     # ┌────────────── second (optional) : 0 ~ 59
@@ -46,8 +48,48 @@ cron.schedule('* * * * *', () => {
     # * * * * * *
     ```
 
-    - 여러 값들 선택, 범위 선택, 이름 사용 등 더 다양한 이용하고 싶으면 [github 문서 확인](https://github.com/node-cron/node-cron)
+    - 다중 값 주기 설정
 
+    ```js
+    cron.schedule('1,5,7 * * * *', () => {
+        console.log('매 1,5,7분마다 실행');
+    });
+    ```
+
+    - 범위 주기 설정
+
+    ```js
+    cron.schedule('1-7 * * * *', () => {
+        console.log('매 1-7분마다 실행');
+    });
+    ```
+
+    - '/' 사용해서 step 뛰어넘게 주기 설정
+
+    ```js
+    cron.schedule('1-10/2 * * * *', () => {
+        console.log('매 2,4,6,8,10분마다 실행');
+    });
+    ```
+    ```js
+    cron.schedule('*/2 * * * *', () => {
+        console.log('2분 지날 때마다 실행');
+    });
+    ```
+    
+    - 이름/약어 사용해서 주기 설정
+
+    ```js
+    cron.schedule('* * * January,September Sunday', () => {
+        console.log('1월과 9월의 일요일마다 실행');
+    });
+    ```
+    ```js
+    cron.schedule('* * * Jan,Sep Sun', () => {
+        console.log('1월과 9월의 일요일마다 실행');
+    });
+    ```
+    
 - console.log() 함수 대신 주기적으로 실행하고 싶은 함수를 넣으면 됨
 
 
