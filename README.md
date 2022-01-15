@@ -20,6 +20,8 @@
 
 * [Sequelize 로 JSON 데이터 다루기](Node/sequelize_json.md)
 
+* [node-cron 모듈로 스케줄러 설정](Node/node-cron.md)
+
 ## HTML
 
 * [HTML](HTML/html.md)
