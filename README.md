@@ -83,3 +83,5 @@
 * [캐시(Cache)](ETC/cache.md)
 
 * [문자열 인코딩](ETC/character_encoding.md)
+
+* [다국어 처리(i18n)](ETC/i18n.md)
