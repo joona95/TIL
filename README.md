@@ -87,3 +87,7 @@
 * [다국어 처리(i18n)](ETC/i18n.md)
 
 * [날짜와 시간(타임스탬프, 타임존)](ETC/datetime.md)
+
+* [단위 테스트(Unit Test)](ETC/unit_test.md)
+
+* [코드 커버리지(Code Coverage)](ETC/code_coverage.md)
