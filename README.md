@@ -1,10 +1,10 @@
 # TIL
 
-## Github
+## Git
 
-* [Github 프로필](Github/profile.md)
+* [Github 프로필](Git/profile.md)
 
-* [Git Remotes에 Commit을 잘못 Push 했을 때 Push 취소 방법](Github/git_push_cancel.md)
+* [Git Remotes에 Commit을 잘못 Push 했을 때 Push 취소 방법](Git/git_push_cancel.md)
 
 ## JavaScript
 
