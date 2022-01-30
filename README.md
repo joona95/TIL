@@ -64,7 +64,7 @@
 
 * [마크다운](ETC/markdown.md)
 
-* [UUID](ETC/uuid.md)
+* [범용 고유 식별자 (UUID)](ETC/uuid.md)
 
 * [클린코드](ETC/clean_code.md)
 
