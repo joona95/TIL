@@ -95,3 +95,5 @@
 * [코드 커버리지(Code Coverage)](ETC/code_coverage.md)
 
 * [정규 표현식](ETC/regular_expression.md)
+
+* [난수](ETC/random.md)
