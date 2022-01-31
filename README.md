@@ -97,3 +97,5 @@
 * [정규 표현식](ETC/regular_expression.md)
 
 * [난수](ETC/random.md)
+
+* [해시 함수](ETC/hash.md)
