@@ -60,6 +60,12 @@
 
 * [Visual Studio 한글깨짐](VS/visual_studio_encoding.md)
 
+## AWS
+
+* [AWS EC2 원격 접속 및 파일 업로드(Mac OS)](AWS/remote_access.md)
+
+* [AWS 서버 연결 도메인 port 숨기기 (포트 포워딩)](AWS/port_forwarding.md)
+
 ## ETC
 
 * [마크다운](ETC/markdown.md)
