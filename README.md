@@ -12,6 +12,8 @@
 
 * [Date.toLocaleTimeString() 함수의 시간 표시 포맷 문제 해결](Javascript/date_to_locale_time_string_24_hours_display.md)
 
+* [화살표 함수와 일반 함수의 차이](Javascript/arrow_function.md)
+
 ## TypeScript
 
 * [Utility Types](TypeScript/utility_types.md)
