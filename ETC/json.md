@@ -30,14 +30,24 @@
 
   ```
   {
-      "id": 1,
-      "name": "abc"
+      "number": 12345,
+      "pi": 3.14,
+      "str": "string",
+      "null_key": null,
+      "object": {
+          "str2": "string2",
+          "object2": {
+              "number2": 12345
+          }
+      },
+      "num_array": [1, 2, 3, 4, 5],
+      "str_array": ["one", "two", "three", "four", "five"]
   }
   ```
 
   ```
   [
-      1, 2, 3
+      1, 2, 3, 4, 5
   ]
   ```
 
