@@ -117,3 +117,5 @@
 - [개발 문서 작성](ETC/development_document.md)
 
 - [Mocking with Jest](ETC/mocking.md)
+
+- [YAML](ETC/yaml.md)
