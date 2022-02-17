@@ -119,3 +119,11 @@
 - [Mocking with Jest](ETC/mocking.md)
 
 - [YAML](ETC/yaml.md)
+
+- [XML](ETC/xml.md)
+
+- [프로토콜 버퍼](ETC/protocol_buffers.md)
+
+- [Base64](ETC/base64.md)
+
+- [데이터 압축](ETC/zlib.md)
