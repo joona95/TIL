@@ -6,6 +6,8 @@
 
 - [Git Remotes에 Commit을 잘못 Push 했을 때 Push 취소 방법](Git/git_push_cancel.md)
 
+- [Git commit 날짜 및 시간 변경](Git/change_commit_date.md)
+
 ## JavaScript
 
 - [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
