@@ -96,44 +96,12 @@
 
 - [캐시(Cache)](ETC/cache.md)
 
-- [문자열 인코딩](ETC/character_encoding.md)
-
-- [다국어 처리(i18n)](ETC/i18n.md)
-
-- [날짜와 시간(타임스탬프, 타임존)](ETC/datetime.md)
-
 - [단위 테스트(Unit Test)](ETC/unit_test.md)
 
 - [코드 커버리지(Code Coverage)](ETC/code_coverage.md)
 
-- [정규 표현식](ETC/regular_expression.md)
-
-- [난수](ETC/random.md)
-
-- [해시 함수](ETC/hash.md)
-
 - [변수 이름 네이밍](ETC/naming.md)
-
-- [JSON](ETC/json.md)
 
 - [개발 문서 작성](ETC/development_document.md)
 
 - [Mocking with Jest](ETC/mocking.md)
-
-- [YAML](ETC/yaml.md)
-
-- [XML](ETC/xml.md)
-
-- [프로토콜 버퍼](ETC/protocol_buffers.md)
-
-- [Base64](ETC/base64.md)
-
-- [데이터 압축](ETC/zlib.md)
-
-- [HTTP](ETC/http.md)
-
-- [HTTPS](ETC/https.md)
-
-- [RESTful API](ETC/restfulapi.md)
-
-- [OAuth](ETC/oauth.md)
