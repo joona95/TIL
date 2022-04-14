@@ -57,3 +57,13 @@
 ## Docker compose
 
 - 복잡한 설정을 쉽게 관리하기 위해 YAML 방식의 설정파일을 이용한 툴
+
+## Docker 접속해서 db 확인
+
+```
+docker exec -it 컨테이너명 /bin/bash
+```
+
+```
+mysql -u 아이디 -p 
+```
