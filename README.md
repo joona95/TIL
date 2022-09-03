@@ -82,6 +82,12 @@
 
 - [MySQL 날짜 관련 함수](SQL/date.md)
 
+- [MySQL 테이블에 데이터로 한글 입력](SQL/change_table_charset.md)
+
+- [생성일, 수정일 컬럼 생성 시 날짜 기본값 자동 설정](SQL/created_at_updated_at_default.md)
+
+- [varchar ID값 채번](SQL/varchar_id.md)
+
 ## Spring
 
 - [@Transactional](Spring/transactional.md)
