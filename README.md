@@ -8,6 +8,8 @@
 
 - [Git commit 날짜 및 시간 변경](Git/change_commit_date.md)
 
+- [Github Actions](Git/github_actions.md)
+
 ## JavaScript
 
 - [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
