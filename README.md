@@ -92,6 +92,8 @@
 
 - [@Transactional](Spring/transactional.md)
 
+- [@Value 어노테이션으로 properties 값 읽어오기](Spring/property_value.md)
+
 ## ETC
 
 - [마크다운](ETC/markdown.md)
