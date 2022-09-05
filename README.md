@@ -64,6 +64,8 @@
 
 - [Log4j2 취약점](Java/log4j2_remote_code_execution_vulnerability.md)
 
+- [Java 설치 및 버전 변경](Java/jdk_install.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
