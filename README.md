@@ -10,6 +10,8 @@
 
 - [Github Actions](Git/github_actions.md)
 
+- [Git Cherry Pick](Git/cherry_pick.md)
+
 ## JavaScript
 
 - [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
