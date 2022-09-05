@@ -96,6 +96,8 @@
 
 ## Spring
 
+- [스프링 부트 환경설정](Spring/spring_boot_project.md)
+
 - [@Transactional](Spring/transactional.md)
 
 - [@Value 어노테이션으로 properties 값 읽어오기](Spring/property_value.md)
