@@ -66,6 +66,8 @@
 
 - [Java 설치 및 버전 변경](Java/jdk_install.md)
 
+- [자바 날짜 포맷(SimpleDateFormat)](Java/simple_date_format.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
