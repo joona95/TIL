@@ -141,3 +141,5 @@
 - [Mocking with Jest](ETC/mocking.md)
 
 - [클라우드 서비스: IaaS, PaaS, SaaS](ETC/IaaS_PaaS_SaaS.md)
+
+- [인텔리제이 사용법](ETC/intellij.md)
