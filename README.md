@@ -100,6 +100,8 @@
 
 - [스프링 부트 환경설정](Spring/spring_boot_project.md)
 
+- [스프링 웹 기초: 정적 컨텐츠, MVC와 템플릿 엔진, API](Spring/spring_web_basic.md)
+
 - [@Transactional](Spring/transactional.md)
 
 - [@Value 어노테이션으로 properties 값 읽어오기](Spring/property_value.md)
