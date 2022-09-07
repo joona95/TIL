@@ -100,4 +100,75 @@
     - spring-test: 스프링 통합 테스트 지원
 
 
+## View 환경설정
 
+### Welcome Page
+
+- 스프링부트는 'static/index.html' 파일을 올려두면 Welcome Page 기능 제공
+
+### thymeleaf 템플릿 엔진
+
+- thymeleaf 공식 사이트: https://www.thymeleaf.org/
+
+- 스프링 공식 튜토리얼: https://spring.io/guides/gs/serving-web-content/
+
+- 스프링부트 메뉴얼: https://docs.spring.io/spring-boot/docs/
+
+<br>
+
+```html
+<html xmlns:th="http://www.thymeleaf.org">
+...
+</html>
+```
+
+- html에 thymeleaf 선언 후 thymeleaf 문법 사용 가능
+
+```java
+@Controller
+public class HelloController {
+ @GetMapping("hello")
+ public String hello(Model model) {
+ model.addAttribute("data", "hello!!");
+ return "hello";
+ }
+}
+```
+
+- 컨트롤러에서 리턴 값으로 문자 반환하면 viewResolver 가 화면을 찾아서 처리
+
+    - 스프링부트 템플릿엔진 기본 viewName 매핑
+
+## 빌드하고 실행
+
+### 스프링부트 빌드
+
+```
+./gradlew build
+```
+
+- build 폴더 생성됨
+
+- build/libs 폴더에 jar 파일 생성됨
+
+### 스프링부트 실행
+
+```
+java -jar 빌드파일명.jar
+```
+
+- 루트 폴더에서 실행시키고 싶으면 빌드파일명 앞에 위치 path 적어주면 됨
+
+### 스프링부트 빌드 클린
+
+```
+./gradlew clean
+```
+
+- 빌드 폴더 삭제됨
+
+```
+./gradlew clean build
+```
+
+- 기존 빌드 폴더 완전히 지우고 새로 빌드
