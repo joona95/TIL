@@ -96,6 +96,8 @@
 
 - [varchar ID값 채번](SQL/varchar_id.md)
 
+- [MyBatis \<where> 문](SQL/mybatis_where.md)
+
 ## Spring
 
 - [스프링 부트 환경설정](Spring/spring_boot_project.md)
