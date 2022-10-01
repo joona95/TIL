@@ -110,6 +110,10 @@
 
 - [@Value 어노테이션으로 properties 값 읽어오기](Spring/property_value.md)
 
+## Postman
+
+- [포스트맨에서 스크립트 작성하기](Postman/scripting.md)
+
 ## ETC
 
 - [마크다운](ETC/markdown.md)
