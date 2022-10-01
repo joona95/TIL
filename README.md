@@ -72,6 +72,8 @@
 
 - [List 의 unmodifiableList](Java/unmodifiableList.md)
 
+- [아무 입력 없이 Enter 누르는 경우 while 문 종료하여 입력 종료하기](Java/while_loop_end_by_enter.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
