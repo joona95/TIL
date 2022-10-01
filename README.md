@@ -68,6 +68,8 @@
 
 - [자바 날짜 포맷(SimpleDateFormat)](Java/simple_date_format.md)
 
+- [중복없이 난수(Random Number) 생성 (Stream 활용)](Java/distinct_random_number.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
