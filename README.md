@@ -70,6 +70,8 @@
 
 - [중복없이 난수(Random Number) 생성 (Stream 활용)](Java/distinct_random_number.md)
 
+- [List 의 unmodifiableList](Java/unmodifiableList.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
