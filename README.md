@@ -42,6 +42,8 @@
 
 - [js, css 없이 사용 가능한 유용한 html 태그들](HTML/useful_tags.md)
 
+- [HTML에 공백 띄어쓰기 삽입](HTML/space.md)
+
 ## CSS
 
 - [CSS](Css/css.md)
