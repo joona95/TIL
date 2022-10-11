@@ -163,3 +163,5 @@
 - [클라우드 서비스: IaaS, PaaS, SaaS](ETC/IaaS_PaaS_SaaS.md)
 
 - [인텔리제이 사용법](ETC/intellij.md)
+
+- [IntelliJ에서 Test Coverage 사용](ETC/intellij_test_coverage.md)
