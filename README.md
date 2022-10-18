@@ -108,7 +108,7 @@
 
 - [MyBatis \<where> 문](SQL/mybatis_where.md)
 
-- [MySQL에서 위도, 경도 로 거리 계산하는 법](SQL.latitude_longitude.md)
+- [MySQL에서 위도, 경도 로 거리 계산하는 법](SQL/latitude_longitude.md)
 
 ## Spring
 
