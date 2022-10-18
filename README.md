@@ -110,6 +110,8 @@
 
 - [MySQL에서 위도, 경도 로 거리 계산하는 법](SQL/latitude_longitude.md)
 
+- [SELECT 결과를 INSERT 하기](SQL/insert_select_result.md)
+
 ## Spring
 
 - [스프링 부트 환경설정](Spring/spring_boot_project.md)
