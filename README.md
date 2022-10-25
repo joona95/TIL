@@ -12,6 +12,8 @@
 
 - [Git Cherry Pick](Git/cherry_pick.md)
 
+- [GIT 레파지토리에 새롭게 생성된 브랜치로 checkout 하려고 했을 때 에러 발생](Git/git_checkout_new_branch_error.md)
+
 ## JavaScript
 
 - [동기(Synchronous)와 비동기(Asynchronous)](Javascript/sync_and_async.md)
