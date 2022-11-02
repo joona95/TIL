@@ -22,6 +22,8 @@ sudo iptables -A PREROUTING -t nat -i eth0 -p tcp --dport <들어오는포트번
 
 - 포트포워딩: 전달받은 패킷에 IP:Port 정보를 포트 포워딩 설정 정보 참고하여 특정 IP:Port로 변환시켜주는 기능. 주로 공유기에서 외부 IP로 들어온 Port에 따라 어떤 기기(내부IP)에 연결시켜줄지 결정할 때 필요함.
 
+- 들어오는 포트: http는 80, https는 443
+
 ```
 sudo iptables -t nat -L --line-numbers
 ```
@@ -33,5 +35,12 @@ sudo iptables -t nat -L --line-numbers
 ```
 sudo iptables -t nat -D PREROUTING <삭제할번호>
 ```
+- 포트포워딩 삭제
 
 - 포트포워딩 확인 시 번호(num) 입력
+
+```
+sudo iptables -F -t nat
+```
+
+- 포트포워딩 초기화

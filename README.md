@@ -94,8 +94,6 @@
 
 - [AWS 서버 연결 도메인 port 숨기기 (포트 포워딩)](AWS/port_forwarding.md)
 
-- [AWS 포트 번호 없이 요청 처리받기](AWS/none_port_url.md)
-
 - [GIT 설치](AWS/git_install.md)
 
 ## SQL
