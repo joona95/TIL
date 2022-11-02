@@ -128,6 +128,8 @@
 
 - [@Value 어노테이션으로 properties 값 읽어오기](Spring/property_value.md)
 
+- [LetsEncrypt 활용하여 Spring Boot에 무료 SSL 추가/갱신](Spring/letsencrypt.md)
+
 ## Postman
 
 - [포스트맨에서 스크립트 작성하기](Postman/scripting.md)
