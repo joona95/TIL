@@ -96,6 +96,7 @@
 
 - [GIT 설치](AWS/git_install.md)
 
+- [서버에 현재 접속 중인 사람수 확인](AWS/server_users_count.md)
 ## SQL
 
 - [MySQL 날짜 관련 함수](SQL/date.md)
