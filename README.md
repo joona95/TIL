@@ -100,6 +100,8 @@
 
 - [nohup 백그라운드 실행](AWS/nohup.md)
 
+- [AWS RDS 이모지 입력 가능하도록 DB 파라미터 변경](AWS/rds_utf8mb4.md)
+
 ## SQL
 
 - [MySQL 날짜 관련 함수](SQL/date.md)
