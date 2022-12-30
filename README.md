@@ -82,6 +82,8 @@
 
 - [Java8 Stream 의 limit 과 skip](Java/stream_limit_skip.md)
 
+- [String 연결 최적화](Java/string_concat.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
