@@ -181,3 +181,5 @@
 - [IntelliJ에서 Test Coverage 사용](ETC/intellij_test_coverage.md)
 
 - [H2 Database 설치 & Spring Boot 연결](ETC/h2.md)
+
+- [E2E(End-to-End) 테스트](ETC/e2e_test.md)
