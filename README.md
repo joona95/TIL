@@ -82,7 +82,7 @@
 
 - [Java8 Stream 의 limit 과 skip](Java/stream_limit_skip.md)
 
-- [String 연결 최적화](Java/string_concat.md)
+- [String vs String Builder vs String Buffer](Java/string.md)
 
 ## Visual Studio
 
