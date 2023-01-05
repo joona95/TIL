@@ -86,6 +86,8 @@
 
 - [익명 클래스 (Anonymous Class)](Java/anonymous_class.md)
 
+- [람다 (Lambda)](Java/lambda.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
