@@ -88,6 +88,8 @@
 
 - [람다 (Lambda)](Java/lambda.md)
 
+- [함수형 인터페이스](Java/functional_interface.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
