@@ -92,6 +92,8 @@
 
 - [Enum (Enumerated Type)](Java/enum.md)
 
+- [Optional](Java/optional.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
