@@ -118,6 +118,8 @@
 
 - [AWS RDS 이모지 입력 가능하도록 DB 파라미터 변경](AWS/rds_utf8mb4.md)
 
+- [AWS EC2 스왑 메모리 할당](AWS/swap_memory.md)
+
 ## SQL
 
 - [MySQL 날짜 관련 함수](SQL/date.md)
