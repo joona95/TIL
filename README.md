@@ -136,6 +136,8 @@
 
 - [SELECT 결과를 INSERT 하기](SQL/insert_select_result.md)
 
+- [Illegal mix of collations 오류](SQL/illegal_mix_of_collations.md)
+
 ## Spring
 
 - [스프링 부트 환경설정](Spring/spring_boot_project.md)
