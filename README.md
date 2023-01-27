@@ -96,6 +96,8 @@
 
 - [Optional](Java/optional.md)
 
+- [Date와 LocalDate의 차이점](Java/date_vs_local_date.md)
+
 ## Visual Studio
 
 - [Visual Studio Code C/C++ 세팅](VS/visual_studio_code_c_cpp_setting.md)
